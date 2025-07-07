@@ -30,8 +30,6 @@ A full-featured, real-time one-to-one chat application — inspired by WhatsApp 
 - Multer (file uploads)
 - simplewebauthn (Passkey support)
 - JSON Web Token (JWT)
-- Child Process (Python script execution for extra features, if any)
-
 ---
 
 ### ScreenShots
