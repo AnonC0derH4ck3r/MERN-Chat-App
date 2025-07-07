@@ -34,6 +34,37 @@ A full-featured, real-time one-to-one chat application — inspired by WhatsApp 
 
 ---
 
+### ScreenShots
+
+Login Screen
+![ss1](https://github.com/user-attachments/assets/e3a41e98-fa51-459b-8a9c-8b091b470c65)
+
+Signup Screen
+![ss6](https://github.com/user-attachments/assets/debb7f39-18dc-4f48-87fc-31ae288eaf55)
+
+
+Passkey-Based MFA Screen (If user has setup a passkey)
+![ss2](https://github.com/user-attachments/assets/0d278b24-8643-4eac-bfc6-e80c8018ac98)
+
+Forgot Password Screen
+![ss7](https://github.com/user-attachments/assets/b650cbf0-27fd-4c72-b483-8d1855312bc9)
+
+Home Screen
+![ss3](https://github.com/user-attachments/assets/647acf08-2674-4e9f-852c-f2d570f6fa0e)
+
+Manage Profile Screen
+![ss4](https://github.com/user-attachments/assets/51cf68a8-beab-475f-af79-93d5ebf00670)
+
+Chat Screen
+![ss5](https://github.com/user-attachments/assets/7d00e8ce-f77a-468d-9232-67809bab3f99)
+
+Password Reset Email
+![ss8](https://github.com/user-attachments/assets/183d8235-d4f3-4ae0-9572-2ab9a2724ae7)
+![ss9](https://github.com/user-attachments/assets/ed3d0568-90cc-4615-95da-876234b7f6c6)
+
+
+
+
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repository
