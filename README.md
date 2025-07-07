@@ -61,6 +61,9 @@ Chat Screen
 Password Reset Email
 ![ss8](https://github.com/user-attachments/assets/183d8235-d4f3-4ae0-9572-2ab9a2724ae7)
 ![ss9](https://github.com/user-attachments/assets/ed3d0568-90cc-4615-95da-876234b7f6c6)
+![ss10](https://github.com/user-attachments/assets/5f09499b-c4c0-40d4-aaf9-6bb0c41da05e)
+
+
 
 
 
